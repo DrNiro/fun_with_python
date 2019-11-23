@@ -1,17 +1,18 @@
 # fun_with_python
 Some little math phenomenons
 
-ChaosGame - 3 fixed points on a canvas.
-
+ChaosGame - What shape will appear?
+            
+            3 fixed points on a canvas.
+            
             Select random point and draw a dot half-way towards it, and repeat.
-
-            What shape will appear?
-
+            
+            
 GoldenFlowers - What is the best way for a flower to spread its seeds? - Golden ratio is the answer.
             
             Parameters: 
                
-               - Factor: Values between 0 to 1 (Default 0) - Works with all values.
+               - Factor: Values between 0 to 1 (Default 0) - 1.1 same impact as 0.1.
                
                - Number of dots: How many dots in a layer (Default 200).
                
