@@ -8,7 +8,7 @@ ChaosGame - What shape will appear?
             Select random point and draw a dot half-way towards it, and repeat.
             
             
-GoldenFlowers - What is the best way for a flower to spread its seeds? - Golden ratio is the answer.
+GoldenFlowers - What is the best way for a flower to spread its seeds? - Golden Ratio strike again.
             
             Parameters: 
                
